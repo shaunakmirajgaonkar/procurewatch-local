@@ -1,0 +1,1 @@
+# Scoring\nPricing 25%, bid gap 20%, low competition 18%, supplier concentration 17%, repeat wins 10%, conflict review signal 10%. Bands: Low <30, Moderate 30–54.9, High 55–74.9, Critical >=75.\n

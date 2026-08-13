@@ -1,0 +1,1 @@
+# Architecture\nStreamlit UI → validation → transparent scoring → SQLite → Plotly analytics. `scoring.py` is pure Python for isolated tests.\n

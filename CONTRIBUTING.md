@@ -1,0 +1,1 @@
+# Contributing\nRun `python3 self_test.py` before submitting changes.\n

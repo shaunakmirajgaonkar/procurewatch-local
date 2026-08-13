@@ -1,0 +1,1 @@
+# Run\n`python3 -m pip install -r requirements.txt` then `python3 -m streamlit run app.py --server.port 8510`.\n

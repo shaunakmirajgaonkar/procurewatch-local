@@ -1,0 +1,1 @@
+# Data Dictionary\n`tender_code,title,category,buyer,tender_value,bid_count,winning_bid,second_bid,supplier,supplier_wins,supplier_share,conflict_signal`\n

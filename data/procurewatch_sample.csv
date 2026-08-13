@@ -1,0 +1,9 @@
+tender_code,title,category,buyer,tender_value,bid_count,winning_bid,second_bid,supplier,supplier_wins,supplier_share,conflict_signal
+TND-001,Road repair materials,Infrastructure,City Works Dept,1000000,8,980000,990000,Supplier A,2,10,0
+TND-002,Medical equipment,Healthcare,District Hospital,2500000,3,2100000,2400000,Supplier B,8,45,10
+TND-003,IT networking,IT & Software,Digital Services Dept,1800000,2,1250000,1700000,Supplier C,15,70,20
+TND-004,School furniture,Education,Education Office,750000,6,690000,705000,Supplier D,3,20,0
+TND-005,Water pipeline work,Utilities,Water Authority,3200000,1,900000,2800000,Supplier E,22,92,80
+TND-006,Street lighting,Infrastructure,Municipal Corporation,1500000,4,1430000,1470000,Supplier F,5,30,5
+TND-007,Farm equipment,Other,Agriculture Department,2200000,2,1300000,1900000,Supplier G,18,82,55
+TND-008,Software support,IT & Software,Public IT Office,900000,5,870000,885000,Supplier H,4,25,0

@@ -1,0 +1,1 @@
+# Security\nUse authorized data only. Do not store secrets in the repository.\n

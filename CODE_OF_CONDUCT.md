@@ -1,0 +1,1 @@
+# Code of Conduct\nAvoid unsupported allegations about suppliers, buyers, or individuals.\n
